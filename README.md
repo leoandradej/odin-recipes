@@ -1,1 +1,4 @@
 # odin-recipes
+This project consists of building a simple Recipes Website containing an Index (or Home) page displaying links to three different recipe pages that should have a structure composed of a title, a picture of the dish with a brief description, followed by a list of ingredients needed and the steps of how to prepare the dish.
+
+This project will be useful for put into practice what I've learned so far about HTML, for example, how to build the basic structure of a page and how to use indentation as a way to set hierarchy logic to a project; I will be able to stick to my mind some of the basic tags used in HTML by using them again and again.
